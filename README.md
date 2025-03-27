@@ -20,7 +20,7 @@
 
 # Hey there!
 ### I'm Brody, a high school student from Denver, CO. I'm currently studying Computer Science/Cybersecurity in Warren Tech.
-![Static Badge](https://img.shields.io/badge/in-LinkedIn-0072b1?labelColor=0072b1&color=ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbrodybroughton%2F)
+<a href='https://www.linkedin.com/in/brodybroughton/'><img src='https://img.shields.io/badge/in-LinkedIn-0072b1?labelColor=0072b1&color=ffffff'></a>
 
 
 # Always Learning;
