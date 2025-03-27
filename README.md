@@ -24,10 +24,10 @@
 <a target="_blank" href='https://medium.com/@brodyBroughton'><img src='https://img.shields.io/badge/Me-Medium-000000?labelColor=000000&color=ffffff'></a>
 
 
-# Always Learning;
-### 🐍 Python
-### 🤖 Integrating AI into projects
-### 🖊️ Prompt Engineering
-### ⚙️ Aspects of DevOps
+## Always Learning;
+🐍 Python
+🤖 Integrating AI into projects
+🖊️ Prompt Engineering
+⚙️ Aspects of DevOps
 
-Check out my pinned repo's below!
+### Check out my pinned repo's below!
